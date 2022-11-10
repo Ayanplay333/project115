@@ -1,0 +1,37 @@
+body{
+     background-color: lightcyan;
+     font-family: 'Teko', sans-serif;
+}
+.div_header p 
+{
+font-family: monospace;
+color: gray;
+font-size: 12px;
+font-weight: bold;
+letter-spacing: 2px;
+}
+.div_header
+{
+background-color: white;
+color: darkblue;
+}
+button {
+    margin-top: 30px;
+    width: 130px;
+font-family: roboto;
+font-weight: bold;
+letter-spacing: 3px;
+}
+.Div_footer 
+{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    font-size: 20px;
+    background-color: gray;
+    color: white;
+    line-height: 3;
+    text-shadow: 3px 3px 3px black;
+}
+
+
